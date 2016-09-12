@@ -1,0 +1,21 @@
+{
+  "name": "vue-bokeh",
+  "version": "0.1.0",
+  "description": "A wrapper around bokehjs embedded",
+  "author": "",
+  "main": "BokehPlot.vue",
+   "keywords": [
+    "vue",
+    "bokeh",
+    "plot"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "scripts": {},
+  "dependencies": {
+  },
+  "devDependencies": {}
+}

@@ -21,7 +21,7 @@ Its very small and then you will have one less dependency.
 
 <script>
 import { fetchPlot } from '../vuex/actions'
-import BokehPlot from './BokehPlot'
+import BokehPlot from 'vue-bokeh'
 
 export default {
   components: {

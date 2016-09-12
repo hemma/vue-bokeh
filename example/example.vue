@@ -4,7 +4,7 @@
 
 <script>
 import { fetchPlot } from '../vuex/actions'
-import BokehPlot from './BokehPlot'
+import BokehPlot from 'vue-bokeh'
 
 export default {
   components: {

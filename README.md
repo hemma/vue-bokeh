@@ -1,4 +1,4 @@
-# Simple wrapper for embedding Bokehplot in a vue-component.
+## Simple wrapper for embedding Bokehplot in a vue-component.
 
 ### Installation
 npm i vue-bokeh --save-dev
@@ -7,8 +7,8 @@ Include:
 <link href="http://cdn.pydata.org/bokeh/release/bokeh-0.12.2.min.css" rel="stylesheet" type="text/css">
 <script src="http://cdn.pydata.org/bokeh/release/bokeh-0.12.2.min.js"></script>
 
-Might be easier to just copy the code from BokehPlot.vue,
-because its very small and have one less dependency.
+Might be easier to just copy the code from BokehPlot.vue.
+Its very small and then you will have one less dependency.
 
 ### Usage
 

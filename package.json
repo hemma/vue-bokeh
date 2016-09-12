@@ -2,7 +2,7 @@
   "name": "vue-bokeh",
   "version": "0.1.0",
   "description": "A wrapper around bokehjs embedded",
-  "author": "",
+  "author": "Johan B",
   "main": "BokehPlot.vue",
    "keywords": [
     "vue",
@@ -11,9 +11,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/hemma/vue-bokeh/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/hemma/vue-bokeh#readme",
   "scripts": {},
   "dependencies": {
   },

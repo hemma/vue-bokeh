@@ -1,3 +1,5 @@
+# This code is very old and the example is broken. I will keep the repository as it might still help someone..
+
 ## Simple wrapper for embedding Bokehplot in a vue-component.
 
 ### Installation
